@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@200;300;400;500;700;900&family=Montserrat:ital,wght@0,200;0,300;0,400;0,600;0,700;1,400&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rubik+Iso&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.registeration__button{
+  background: linear-gradient(270deg, #903AFF 0%, #D434FE 56.42%, #FF26B9 99.99%, #FE34B9 100%);
+}
+.registeration__button:hover{
+  opacity: 0.9;
+}
